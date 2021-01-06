@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import '../node_modules/font-awesome/css/font-awesome.min.css'; 
-import './styles.css';
+import './styles.css'
 
 const TemperatureWrapper = props => {
     return (
